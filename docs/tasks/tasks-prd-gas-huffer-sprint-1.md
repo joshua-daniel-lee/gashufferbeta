@@ -51,13 +51,13 @@
   - [x] 1.7 **VISUAL VERIFICATION**: Launch dev server and confirm clean Phaser canvas loads
 
 - [ ] 2.0 Python Art Pipeline Integration
-  - [ ] 2.1 Create art-pipeline directory structure with subdirectories for sprites
-  - [ ] 2.2 Implement main generate_sprites.py script with Derek Yu pixel art methodology
-  - [ ] 2.3 Create character_sprites.py to generate Gas Huffer sprite with basic animations
-  - [ ] 2.4 Create monster_sprites.py to generate all 4 monster types (Ghost, Shadow, Wraith, Poltergeist)
-  - [ ] 2.5 Create environment_sprites.py to generate room tiles and interactive objects
-  - [ ] 2.6 Set up automated PNG export pipeline optimized for Phaser loading
-  - [ ] 2.7 **TESTING**: Run Python script and verify sprites generate in under 5 seconds
+  - [x] 2.1 Create art-pipeline directory structure with subdirectories for sprites
+  - [x] 2.2 Implement main generate_sprites.py script with Derek Yu pixel art methodology
+  - [x] 2.3 Create character_sprites.py to generate Gas Huffer sprite with basic animations
+  - [x] 2.4 Create monster_sprites.py to generate all 4 monster types (Ghost, Shadow, Wraith, Poltergeist)
+  - [x] 2.5 Create environment_sprites.py to generate room tiles and interactive objects
+  - [x] 2.6 Set up automated PNG export pipeline optimized for Phaser loading
+  - [x] 2.7 **TESTING**: Run Python script and verify sprites generate in under 5 seconds
   - [ ] 2.8 **VISUAL VERIFICATION**: Load generated sprites in Phaser and confirm proper rendering
 
 - [ ] 3.0 Core Gameplay Systems Implementation
