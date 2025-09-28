@@ -1,0 +1,20 @@
+# Gas Huffer Art Pipeline Dependencies
+# Python PIL (Pillow) for programmatic pixel art generation
+
+# Core image processing
+Pillow==10.0.1
+
+# Additional utilities for color manipulation and math
+numpy==1.24.3
+
+# Optional: For more advanced image processing
+scipy==1.11.3
+
+# Development and debugging
+matplotlib==3.7.2  # For visualizing generated sprites during development
+
+# File handling utilities
+pathlib2==2.3.7.post1  # Enhanced path handling (Python 2/3 compatibility)
+
+# Color theory and palette generation
+colorsys  # Built-in Python module for color space conversions
